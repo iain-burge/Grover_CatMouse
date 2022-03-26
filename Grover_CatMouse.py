@@ -43,7 +43,7 @@ weightsArr = [
 #   +0.0, +0.0, +0.0, +0.0,
 #   +0.0, +0.0, +0.0, +0.0
 # ]
-weights = {i: weightsArr[i] for i in range(1<<(dimx+dimy))}
+#weights = {i: weightsArr[i] for i in range(1<<(dimx+dimy))}
 
 numActions = 2
 
